@@ -1,1 +1,1 @@
-# cicd-demo
+# ccds-java-app
